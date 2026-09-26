@@ -196,7 +196,7 @@ export const tools: Tool[] = [
     description: "Best-in-class AI voice generation and cloning platform.",
     longDescription: "ElevenLabs produces the most natural-sounding AI voices available. It supports voice cloning, dozens of languages, and is widely used for YouTube, podcasts, and audiobooks.",
     website: "https://elevenlabs.io",
-    affiliateUrl: "https://elevenlabs.io/?from=YOUR_AFFILIATE_ID",
+    affiliateUrl: "https://try.elevenlabs.io/koi5w7l8hkky",
     pricing: "Free + From $5/mo",
     pricingDetails: "Free, Starter $5, Creator $22, Pro $99",
     rating: 4.8,
